@@ -1,0 +1,7 @@
+com\aj\investment\db\DatabaseInitializer.class
+com\aj\investment\service\FileUploadService.class
+com\aj\investment\service\EmailService$1.class
+com\aj\investment\transaction\FileUploadCleanupCallback.class
+com\aj\investment\dao\ClientDAO.class
+com\aj\investment\service\EmailService.class
+com\aj\investment\db\DBConnection.class

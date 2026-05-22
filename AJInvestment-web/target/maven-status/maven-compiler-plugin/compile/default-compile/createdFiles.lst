@@ -1,0 +1,8 @@
+com\aj\investment\servlet\LoginClientServlet$LoginUser.class
+com\aj\investment\servlet\InitListener.class
+com\aj\investment\servlet\ResetPasswordServlet.class
+com\aj\investment\servlet\ForgotPasswordServlet.class
+com\aj\investment\servlet\LoginClientServlet.class
+com\aj\investment\servlet\TestServlet.class
+com\aj\investment\servlet\VerifyEmailServlet.class
+com\aj\investment\servlet\RegisterClientServlet.class
