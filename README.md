@@ -1,2 +1,0 @@
-# AJInvestment
-Investment web application
